@@ -31,3 +31,6 @@ Reducción de la Desinformación: Identificar cuentas reales contribuiría a un 
 
 Conclusión:
 El proyecto de escaneo de identidades únicas en redes sociales es un paso audaz hacia un entorno digital más seguro y auténtico. Al mejorar la autenticidad y proteger la privacidad, se espera que esta iniciativa influya positivamente en la forma en que interactuamos y confiamos en las plataformas de redes sociales.# Scanner-con-README
+
+Primer día:
+Seguimos debatiendo sobre los esfuerzos de marketing.
