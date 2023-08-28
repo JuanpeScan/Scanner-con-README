@@ -36,3 +36,4 @@ Primer día:
 Seguimos debatiendo sobre los esfuerzos de marketing.
 Segundo día:
 Sin cambios.
+Han surgido varias ideas interesantes para desarrollar.
