@@ -1,4 +1,4 @@
-Proyecto de Escaneo de Identidades Únicas en Redes Sociales
+-Proyecto de Escaneo de Identidades Únicas en Redes Sociales-
 
 El proyecto de escaneo de identidades únicas en redes sociales busca abordar los desafíos de la autenticidad y la privacidad en la era digital. Con la proliferación de cuentas falsas y la creciente preocupación por la seguridad en línea, esta iniciativa se centra en establecer una forma confiable de verificar y proteger las identidades en las redes sociales.
 
