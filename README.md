@@ -37,3 +37,4 @@ Seguimos debatiendo sobre los esfuerzos de marketing.
 Segundo día:
 Sin cambios.
 Han surgido varias ideas interesantes para desarrollar y las pondremos en práctica.
+Estamos comenazndo con el desarrollo.
